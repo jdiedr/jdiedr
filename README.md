@@ -1,5 +1,10 @@
-- Chemistry student in Göttingen
-- interested in data science, ML, theoretical chemistry, (astro)physics, music
+Chemistry student in Göttingen
+
+Some interests:
+- physical chemistry
+- data science/ML
+- theoretical chemistry
+- (astro)physics 
 
 <!---
 jdiedr/jdiedr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
